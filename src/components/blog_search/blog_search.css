@@ -59,6 +59,9 @@
   border-radius: 5px;
   margin: 10px 2px;
 }
+.btnGroup-filterBy{
+  font-weight: 800;
+}
 .btnGroup .blog_sort_button {
   background-color: #434c5e;
   color: #d8dee9;

@@ -68,7 +68,7 @@ export default function BlogSearch({ all_blogs ,setter }) {
         </div>
           <div className="buttons">
             <div className="btnGroup">
-              <span>Filter By: </span>
+              <span className="btnGroup-filterBy">Filter By: </span>
               <select
           className="blog_sort_button"
           onChange={(e) => {
